@@ -75,7 +75,7 @@ The dataset contains transactional sales data, including:
 
 📸 Dashboard Preview
 
-![Sales Dashboard](images/dashboard-overview.png)
+
 
 
 📊 Key Performance Indicators (KPIs)
